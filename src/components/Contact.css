@@ -1,0 +1,40 @@
+.ab{
+    align-items: center;
+    height: 300px;
+}
+.feed{
+    border: 2px solid grey;
+    float: left;
+    border-radius: 20px;
+    width:200px;
+    margin-left: 120px;
+}
+.wow{
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+form{
+    font-size: 10px;
+    padding: 30px;
+}
+.add{
+    float: right;
+    width: 40%;
+    border: 2px solid grey;
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 80px;
+}
+.artist{
+    border: 2px solid grey;
+    float: left;
+    border-radius: 20px;
+    width:200px;
+    margin-left: 70px;
+    padding: 3px;
+}
+iframe{
+    border: 1px solid black;
+}

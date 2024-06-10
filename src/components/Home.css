@@ -1,0 +1,37 @@
+.d{
+    background-image: url(../images/concert.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    font-size: 25px;
+}
+.w{
+    border: 1px solid pink;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+    background-color: pink;
+    font-size: 15px;
+    padding: 6px;
+}
+.w:hover{
+    border: 1px solid pink;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    background-color: pink;
+    font-size: 20px;
+    padding: 6px;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    text-shadow: 5px 5px 5px white;
+}
+h1:hover{
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    text-shadow: 5px 5px 5px black;
+}

@@ -1,0 +1,38 @@
+.ee{
+    background-image: url(../images/hj.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin-top: 150px;
+}
+.wwe{
+    margin-top: 150px;
+}
+.wwc{
+    font-size: 1px;
+}
+center{
+font-weight: bold;
+font-size: 30px;
+color: white;
+}
+.c{
+border: 1px solid orange;
+background-color: orange;
+border-radius: 20px;
+color: black;
+width: 100px;
+font-size: 15px;
+padding: 5px;
+text-decoration: none;
+}
+.c:hover{
+border: 1px solid orange;
+background-color: orange;
+color: white;
+border-radius: 20px;
+width: 100px;
+font-size: 15px;
+padding: 5px;
+text-decoration: none;
+}
